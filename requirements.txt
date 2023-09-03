@@ -1,0 +1,15 @@
+Pyrogram==2.0.52
+tgcrypto
+requests
+pyromod
+yt-dlp
+ffmpeg
+aiohttp
+aiofiles
+asyncio
+pycurl
+humanize
+ethon==0.1.2
+cryptg
+telethon
+python-decouple
